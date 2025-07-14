@@ -1,0 +1,4 @@
+2025-07-13 19:27:43 - INPUT: hi guys - RESULT: Spam
+2025-07-13 19:30:35 - INPUT: Win a free iPhone today. Don't miss out!",spam - RESULT: Spam
+2025-07-13 19:30:54 - INPUT: Subscribe to my music channel for more hits!",spam - RESULT: Spam
+2025-07-13 19:31:17 - INPUT: You broke it down really well!",ham - RESULT: Not Spam
